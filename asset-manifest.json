@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://alfred750.github.io/csb-yygc3/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://alfred750.github.io/csb-yygc3/static/js/main.f0164716.chunk.js",
-    "main.js.map": "https://alfred750.github.io/csb-yygc3/static/js/main.f0164716.chunk.js.map",
+    "main.js": "https://alfred750.github.io/csb-yygc3/static/js/main.af1d10b6.chunk.js",
+    "main.js.map": "https://alfred750.github.io/csb-yygc3/static/js/main.af1d10b6.chunk.js.map",
     "runtime-main.js": "https://alfred750.github.io/csb-yygc3/static/js/runtime-main.398f9e7c.js",
     "runtime-main.js.map": "https://alfred750.github.io/csb-yygc3/static/js/runtime-main.398f9e7c.js.map",
     "static/css/2.6ec576ca.chunk.css": "https://alfred750.github.io/csb-yygc3/static/css/2.6ec576ca.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.6ec576ca.chunk.css",
     "static/js/2.342d0e73.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.f0164716.chunk.js"
+    "static/js/main.af1d10b6.chunk.js"
   ]
 }

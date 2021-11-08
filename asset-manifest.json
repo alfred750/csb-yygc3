@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-yygc3/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-yygc3/static/js/main.543c44d5.chunk.js",
-    "main.js.map": "https://.github.io/csb-yygc3/static/js/main.543c44d5.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-yygc3/static/js/runtime-main.2ff76fdf.js",
-    "runtime-main.js.map": "https://.github.io/csb-yygc3/static/js/runtime-main.2ff76fdf.js.map",
-    "static/css/2.6ec576ca.chunk.css": "https://.github.io/csb-yygc3/static/css/2.6ec576ca.chunk.css",
-    "static/js/2.07b69602.chunk.js": "https://.github.io/csb-yygc3/static/js/2.07b69602.chunk.js",
-    "static/js/2.07b69602.chunk.js.map": "https://.github.io/csb-yygc3/static/js/2.07b69602.chunk.js.map",
-    "index.html": "https://.github.io/csb-yygc3/index.html",
-    "static/css/2.6ec576ca.chunk.css.map": "https://.github.io/csb-yygc3/static/css/2.6ec576ca.chunk.css.map",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-yygc3/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.07b69602.chunk.js.LICENSE.txt": "https://.github.io/csb-yygc3/static/js/2.07b69602.chunk.js.LICENSE.txt"
+    "main.css": "https://alfred750.github.io/csb-yygc3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://alfred750.github.io/csb-yygc3/static/js/main.543c44d5.chunk.js",
+    "main.js.map": "https://alfred750.github.io/csb-yygc3/static/js/main.543c44d5.chunk.js.map",
+    "runtime-main.js": "https://alfred750.github.io/csb-yygc3/static/js/runtime-main.398f9e7c.js",
+    "runtime-main.js.map": "https://alfred750.github.io/csb-yygc3/static/js/runtime-main.398f9e7c.js.map",
+    "static/css/2.6ec576ca.chunk.css": "https://alfred750.github.io/csb-yygc3/static/css/2.6ec576ca.chunk.css",
+    "static/js/2.0a4d0a3b.chunk.js": "https://alfred750.github.io/csb-yygc3/static/js/2.0a4d0a3b.chunk.js",
+    "static/js/2.0a4d0a3b.chunk.js.map": "https://alfred750.github.io/csb-yygc3/static/js/2.0a4d0a3b.chunk.js.map",
+    "index.html": "https://alfred750.github.io/csb-yygc3/index.html",
+    "static/css/2.6ec576ca.chunk.css.map": "https://alfred750.github.io/csb-yygc3/static/css/2.6ec576ca.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://alfred750.github.io/csb-yygc3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0a4d0a3b.chunk.js.LICENSE.txt": "https://alfred750.github.io/csb-yygc3/static/js/2.0a4d0a3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ff76fdf.js",
+    "static/js/runtime-main.398f9e7c.js",
     "static/css/2.6ec576ca.chunk.css",
-    "static/js/2.07b69602.chunk.js",
+    "static/js/2.0a4d0a3b.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
     "static/js/main.543c44d5.chunk.js"
   ]
